@@ -1,1 +1,2 @@
 # Data-Stuctures
+These are my assignments for the data structures course. Even though all of them are tested with large data sets (500k) and pass the calico tests, they are not the best code out there. I made many unefficient choices during the coding process, since it was my first real-coding assignments. I will continue upgrading and adding new features. Most of the updates I want to make are written as comments. 
